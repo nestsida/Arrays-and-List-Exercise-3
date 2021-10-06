@@ -1,0 +1,16 @@
+C:\Users\gsida\Desktop\Repo\Arrays and Lists Exercise 3\bin\Debug\net5.0\Arrays and Lists Exercise 3.exe
+C:\Users\gsida\Desktop\Repo\Arrays and Lists Exercise 3\bin\Debug\net5.0\Arrays and Lists Exercise 3.deps.json
+C:\Users\gsida\Desktop\Repo\Arrays and Lists Exercise 3\bin\Debug\net5.0\Arrays and Lists Exercise 3.runtimeconfig.json
+C:\Users\gsida\Desktop\Repo\Arrays and Lists Exercise 3\bin\Debug\net5.0\Arrays and Lists Exercise 3.runtimeconfig.dev.json
+C:\Users\gsida\Desktop\Repo\Arrays and Lists Exercise 3\bin\Debug\net5.0\Arrays and Lists Exercise 3.dll
+C:\Users\gsida\Desktop\Repo\Arrays and Lists Exercise 3\bin\Debug\net5.0\ref\Arrays and Lists Exercise 3.dll
+C:\Users\gsida\Desktop\Repo\Arrays and Lists Exercise 3\bin\Debug\net5.0\Arrays and Lists Exercise 3.pdb
+C:\Users\gsida\Desktop\Repo\Arrays and Lists Exercise 3\obj\Debug\net5.0\Arrays and Lists Exercise 3.csproj.AssemblyReference.cache
+C:\Users\gsida\Desktop\Repo\Arrays and Lists Exercise 3\obj\Debug\net5.0\Arrays and Lists Exercise 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsida\Desktop\Repo\Arrays and Lists Exercise 3\obj\Debug\net5.0\Arrays and Lists Exercise 3.AssemblyInfoInputs.cache
+C:\Users\gsida\Desktop\Repo\Arrays and Lists Exercise 3\obj\Debug\net5.0\Arrays and Lists Exercise 3.AssemblyInfo.cs
+C:\Users\gsida\Desktop\Repo\Arrays and Lists Exercise 3\obj\Debug\net5.0\Arrays and Lists Exercise 3.csproj.CoreCompileInputs.cache
+C:\Users\gsida\Desktop\Repo\Arrays and Lists Exercise 3\obj\Debug\net5.0\Arrays and Lists Exercise 3.dll
+C:\Users\gsida\Desktop\Repo\Arrays and Lists Exercise 3\obj\Debug\net5.0\ref\Arrays and Lists Exercise 3.dll
+C:\Users\gsida\Desktop\Repo\Arrays and Lists Exercise 3\obj\Debug\net5.0\Arrays and Lists Exercise 3.pdb
+C:\Users\gsida\Desktop\Repo\Arrays and Lists Exercise 3\obj\Debug\net5.0\Arrays and Lists Exercise 3.genruntimeconfig.cache

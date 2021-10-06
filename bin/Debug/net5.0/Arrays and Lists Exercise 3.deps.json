@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Arrays and Lists Exercise 3/1.0.0": {
+        "runtime": {
+          "Arrays and Lists Exercise 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays and Lists Exercise 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
